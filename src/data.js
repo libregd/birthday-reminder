@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     id: 1,
     name: 'Bertie Yates',
@@ -35,3 +35,4 @@ export default [
       'https://avataaars.io/?avatarStyle=Circle&topType=LongHairCurvy&accessoriesType=Blank&hairColor=BrownDark&facialHairType=BeardMajestic&facialHairColor=Platinum&clotheType=CollarSweater&clotheColor=PastelGreen&eyeType=Dizzy&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Black',
   },
 ];
+export default data
